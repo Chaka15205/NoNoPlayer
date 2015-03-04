@@ -1,0 +1,4 @@
+name: NoNoPlayer
+main: com.chaka15205.nonoplayer.NoNoPlayer
+version: 1.2-SNAPSHOT
+commands:
